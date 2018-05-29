@@ -15,6 +15,8 @@ this project is written in PHP but you can use any server side language
 
 You can find a working example at this page: http://blog.andreaventuri.it/javascript/creare-una-piantina-per-la-prenotazione-di-posti-con-javascript-e-svg
 
+![screenshot](http://blog.andreaventuri.it/wp-content/uploads/2018/05/screenshot.png)
+
 ## Dependencies
 - [Snap.svg](http://snapsvg.io)
 - [jQuery](https://jquery.com)
